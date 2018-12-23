@@ -58,6 +58,7 @@ Distributed under the [MIT] license.
 
 ## Project Status
 * 12.18.2018 Project open & minor updates - in progress
+* 12.23.2018 Updates add to repo - cease major updates
 
 <!-- Linked -->
 [MIT]: https://choosealicense.com/licenses/mit/
